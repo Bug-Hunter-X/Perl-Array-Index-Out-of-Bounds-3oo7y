@@ -1,0 +1,1 @@
+This repository contains examples of common Perl programming errors, specifically focusing on array index out of bounds errors. The bug.pl file demonstrates the error, while bugSolution.pl shows how to resolve the issue.
